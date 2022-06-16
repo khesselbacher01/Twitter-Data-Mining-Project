@@ -3,7 +3,11 @@ To showcase my abilities in R and Tableau, I downloaded hundreds of Elon Musk's 
 
 
 
+**Cleaning the Tweets**
+Before I could begin my analysis of the data, I needed to clean out all of the extraneous data that came along with the tweets. 
+
+After I cleaned the tweets
 
 
-
+Most Mentioned Users
 ![GoodMentions](https://user-images.githubusercontent.com/75497699/172689193-74afef5f-43f9-43cb-9f72-df0c108cb8ee.png)
