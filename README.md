@@ -6,7 +6,7 @@ To showcase my abilities in R and Tableau, I downloaded hundreds of Elon Musk's 
 **Cleaning the Tweets**
 Before I could begin my analysis of the data, I needed to clean out all of the extraneous data that came along with the tweets. 
 
-After I cleaned the tweets
+Mined data will often come with extraneous information that must be removed from the dataset in order to draw accurate conclusions. To do this, I used a series of Regex commands to remove various artifacts left by the Twitter API.
 
 
 Most Mentioned Users
